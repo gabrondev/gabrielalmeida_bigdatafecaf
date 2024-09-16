@@ -1,0 +1,262 @@
+1,#0001,Stone
+2,#0005/0,Oak Wood Planks
+3,#0005/1,Spruce Wood Planks
+4,#0005/2,Birch Wood Planks
+5,#0005/3,Jungle Wood Planks
+6,#0020,Glass
+7,#0022,Lapis Lazuli Block
+8,#0024/0,Sandstone
+9,#0024/1,Chiseled Sandstone
+10,#0024/2,Smooth Sandstone
+11,#0035/0,Wool
+12,#0035/1,Orange Wool
+13,#0035/2,Magenta Wool
+14,#0035/3,Light Blue Wool
+15,#0035/4,Yellow Wool
+16,#0035/5,Lime Wool
+17,#0035/6,Pink Wool
+18,#0035/7,Gray Wool
+19,#0035/8,Light Gray Wool
+20,#0035/9,Cyan Wool
+21,#0035/10,Purple Wool
+22,#0035/11,Blue Wool
+23,#0035/12,Brown Wool
+24,#0035/13,Green Wool
+25,#0035/14,Red Wool
+26,#0035/15,Black Wool
+27,#0041,Block of Gold
+28,#0042,Block of Iron
+29,#0044/0,Stone Slab
+30,#0044/1,Sandstone Slab
+31,#0044/3,Cobblestone Slab
+32,#0044/4,Bricks Slab
+33,#0044/5,Stone Bricks Slab
+34,#0044/6,Nether Brick Slab
+35,#0044/7,Quartz Slab
+36,#0045,Bricks
+37,#0047,Bookshelf
+38,#0053,Oak Wood Stairs
+39,#0057,Block of Diamond
+40,#0067,Stone Stairs
+41,#0080,Snow
+42,#0082,Clay
+43,#0089,Glowstone
+44,#0091,Jack o'Lantern
+45,#0098/0,Stone Bricks
+46,#0103,Melon
+47,#0108,Brick Stairs
+48,#0109,Stone Brick Stairs
+49,#0112,Nether Brick
+50,#0114,Nether Brick Stairs
+51,#0126/0,Oak Wood Slab
+52,#0126/1,Spruce Wood Slab
+53,#0126/2,Birch Wood Slab
+54,#0126/3,Jungle Wood Slab
+55,#0128,Sandstone Stairs
+56,#0133,Block of Emerald
+57,#0134,Spruce Wood Stairs
+58,#0135,Birch Wood Stairs
+59,#0136,Jungle Wood Stairs
+60,#0139/0,Cobblestone Wall
+61,#0139/1,Mossy Cobblestone Wall
+62,#0155/0,Block of Quartz
+63,#0155/1,Chiseled Quartz Block
+64,#0155/2,Pillar Quartz Block
+65,#0156,Quartz Stairs
+66,#0159/0,White Stained Clay
+67,#0159/1,Orange Stained Clay
+68,#0159/2,Magenta Stained Clay
+69,#0159/3,Light Blue Stained Clay
+70,#0159/4,Yellow Stained Clay
+71,#0159/5,Lime Stained Clay
+72,#0159/6,Pink Stained Clay
+73,#0159/7,Gray Stained Clay
+74,#0159/8,Light Gray Stained Clay
+75,#0159/9,Cyan Stained Clay
+76,#0159/10,Purple Stained Clay
+77,#0159/11,Blue Stained Clay
+78,#0159/12,Brown Stained Clay
+79,#0159/13,Green Stained Clay
+80,#0159/14,Red Stained Clay
+81,#0159/15,Black Stained Clay
+82,#0170,Hay Bale
+83,#0172,Hardened Clay
+84,#0173,Block of Coal
+85,#0050,Torch
+86,#0054,Chest
+87,#0058,Crafting Table
+88,#0061,Furnace
+89,#0065,Ladder
+90,#0084,Jukebox
+91,#0085,Fence
+92,#0101,Iron Bars
+93,#0102,Glass Pane
+94,#0113,Nether Brick Fence
+95,#0116,Enchantment Table
+96,#0130,Ender Chest
+97,#0145/0,Anvil
+98,#0146,Trapped Chest
+99,#0171/0,Carpet
+100,#0171/1,Orange Carpet
+101,#0171/2,Magenta Carpet
+102,#0171/3,Light Blue Carpet
+103,#0171/4,Yellow Carpet
+104,#0171/5,Lime Carpet
+105,#0171/6,Pink Carpet
+106,#0171/7,Gray Carpet
+107,#0171/8,Light Gray Carpet
+108,#0171/9,Cyan Carpet
+109,#0171/10,Purple Carpet
+110,#0171/11,Blue Carpet
+111,#0171/12,Brown Carpet
+112,#0171/13,Green Carpet
+113,#0171/14,Red Carpet
+114,#0171/15,Black Carpet
+115,#0321,Painting
+116,#0323,Sign
+117,#0355,Bed
+118,#0389,Item Frame
+119,#0390,Flower Pot
+120,#0023,Dispenser
+121,#0025,Note Block
+122,#0029,Sticky Piston
+123,#0033,Piston
+124,#0046,TNT
+125,#0069,Lever
+126,#0070,Pressure Plate
+127,#0072,Pressure Plate
+128,#0076,Redstone Torch
+129,#0077,Button
+130,#0096,Trapdoor
+131,#0107,Fence Gate
+132,#0123,Redstone Lamp
+133,#0131,Tripwire Hook
+134,#0143,Button
+135,#0147,Weighted Pressure Plate (Light)
+136,#0148,Weighted Pressure Plate (Heavy)
+137,#0151,Daylight Sensor
+138,#0152,Block of Redstone
+139,#0154,Hopper
+140,#0158,Dropper
+141,#0324,Wooden Door
+142,#0330,Iron Door
+143,#0331,Redstone
+144,#0356,Redstone Repeater
+145,#0404,Redstone Comparator
+146,#0027,Powered Rail
+147,#0028,Detector Rail
+148,#0066,Rail
+149,#0157,Activator Rail
+150,#0328,Minecart
+151,#0333,Boat
+152,#0342,Minecart with Chest
+153,#0343,Minecart with Furnace
+154,#0398,Carrot on a Stick
+155,#0407,Minecart with TNT
+156,#0408,Minecart with Hopper
+157,#0138,Beacon
+158,#0325,Bucket
+159,#0339,Paper
+160,#0340,Book
+161,#0381,Eye of Ender
+162,#0385,Fire Charge
+163,#0386,Book and Quill
+164,#0395,Empty Map
+165,#0402,Firework Star
+166,#0282,Mushroom Stew
+167,#0297,Bread
+168,#0320,Cooked Porkchop
+169,#0322/0,Golden Apple
+170,#0322/1,Golden Apple
+171,#0350,Cooked Fish
+172,#0354,Cake
+173,#0357,Cookie
+174,#0363,Steak
+175,#0366,Cooked Chicken
+176,#0393,Baked Potato
+177,#0396,Golden Carrot
+178,#0400,Pumpkin Pie
+179,#0256,Iron Shovel
+180,#0257,Iron Pickaxe
+181,#0258,Iron Axe
+182,#0259,Flint and Steel
+183,#0269,Wooden Shovel
+184,#0270,Wooden Pickaxe
+185,#0271,Wooden Axe
+186,#0273,Stone Shovel
+187,#0274,Stone Pickaxe
+188,#0275,Stone Axe
+189,#0277,Diamond Shovel
+190,#0278,Diamond Pickaxe
+191,#0279,Diamond Axe
+192,#0284,Golden Shovel
+193,#0285,Golden Pickaxe
+194,#0286,Golden Axe
+195,#0290,Wooden Hoe
+196,#0291,Stone Hoe
+197,#0292,Iron Hoe
+198,#0293,Diamond Hoe
+199,#0294,Golden Hoe
+200,#0345,Compass
+201,#0346,Fishing Rod
+202,#0347,Clock
+203,#0359,Shears
+204,#0420,Lead
+205,#0261,Bow
+206,#0262,Arrow
+207,#0267,Iron Sword
+208,#0268,Wooden Sword
+209,#0272,Stone Sword
+210,#0276,Diamond Sword
+211,#0283,Golden Sword
+212,#0298,Leather Cap
+213,#0299,Leather Tunic
+214,#0300,Leather Pants
+215,#0301,Leather Boots
+216,#0306,Iron Helmet
+217,#0307,Iron Chestplate
+218,#0308,Iron Leggings
+219,#0309,Iron Boots
+220,#0310,Diamond Helmet
+221,#0311,Diamond Chestplate
+222,#0312,Diamond Leggings
+223,#0313,Diamond Boots
+224,#0314,Golden Helmet
+225,#0315,Golden Chestplate
+226,#0316,Golden Leggings
+227,#0317,Golden Boots
+228,#0374,Glass Bottle
+229,#0376,Fermented Spider Eye
+230,#0377,Blaze Powder
+231,#0378,Magma Cream
+232,#0379,Brewing Stand
+233,#0380,Cauldron
+234,#0382,Glistening Melon
+235,#0263/0,Coal
+236,#0263/1,Charcoal
+237,#0264,Diamond
+238,#0265,Iron Ingot
+239,#0266,Gold Ingot
+240,#0280,Stick
+241,#0281,Bowl
+242,#0336,Brick
+243,#0351/1,Rose Red
+244,#0351/2,Cactus Green
+245,#0351/4,Lapis Lazuli
+246,#0351/5,Purple Dye
+247,#0351/6,Cyan Dye
+248,#0351/7,Light Gray Dye
+249,#0351/8,Gray Dye
+250,#0351/9,Pink Dye
+251,#0351/10,Lime Dye
+252,#0351/11,Dandelion Yellow
+253,#0351/12,Light Blue Dye
+254,#0351/13,Magenta Dye
+255,#0351/14,Orange Dye
+256,#0351/15,Bone Meal
+257,#0353,Sugar
+258,#0361,Pumpkin Seeds
+259,#0362,Melon Seeds
+260,#0371,Gold Nugget
+261,#0388,Emerald
+262,#0405,Nether Brick
